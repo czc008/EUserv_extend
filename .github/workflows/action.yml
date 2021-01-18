@@ -27,6 +27,6 @@ jobs:
 
       - name: 'Auto_renew'
         env:
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          USERNAME: ${{ secrets.ztwsc@foxmail.com }}
+          PASSWORD: ${{ secrets.czc00888 }}
         run: python main.py
