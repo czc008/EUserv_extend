@@ -28,5 +28,5 @@ jobs:
       - name: 'Auto_renew'
         env:
           USERNAME: ${{ 13204330 }}
-          PASSWORD: ${{ czc00888 }}
+          PASSWORD: ${{ CZCczc00888 }}
         run: python main.py
